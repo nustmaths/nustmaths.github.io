@@ -1,5 +1,6 @@
 $(document).ready(function(){
-  $('.toggle-collapse').click(function(){
-    $('.navbar-collapse').toggleClass('uncollapse')
+  $('.navbar-toggle').click(function(){
+    $('.navbar-collapse').toggleClass('navbar-uncollapse')
+    $('.navbar-hide').toggleClass('navbar-unhide')
   });
 });
