@@ -1,0 +1,18 @@
+.regular-entry {
+  margin-bottom: 25px;
+}
+
+.regular-entry a {
+  display: inline-block;
+}
+
+.regular-entry-title {
+  display: inline-block;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.regular-entry-note {
+  display: block;
+  margin-top: 4px;
+}
