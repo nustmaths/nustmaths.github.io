@@ -237,8 +237,28 @@ nav {
 }
 
 /* ==== OTHER STUFF ==== */
-main {
+header {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 220px;
   padding-top: 80px;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+}
+
+.header-title {
+  display: block;
+  font-size: 26pt;
+  font-weight: bold;
+}
+
+.header-subtitle {
+  display: block;
+  font-size: 16pt;
+  font-weight: 500;
+  margin-top: 10px;
 }
 
 @media print {

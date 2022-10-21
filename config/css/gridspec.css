@@ -43,15 +43,15 @@ body {
 /* ==== FLEX GRID (MEDIUM SCREENS) ==== */
 @media screen and (min-width: 660px) {
   .container {
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }
 
 /* ==== FLEX GRID (LARGE SCREENS) ==== */
 @media screen and (min-width: 960px) {
   .container {
-    padding-left: 13%;
-    padding-right: 13%;
+    padding-left: 15%;
+    padding-right: 15%;
   }
 }
