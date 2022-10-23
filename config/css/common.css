@@ -252,6 +252,7 @@ header {
   display: block;
   font-size: 26pt;
   font-weight: bold;
+  text-align: center;
 }
 
 .header-subtitle {
@@ -259,6 +260,7 @@ header {
   font-size: 16pt;
   font-weight: 500;
   margin-top: 5px;
+  text-align: center;
 }
 
 @media print {
