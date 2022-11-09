@@ -132,7 +132,6 @@ pre {
   font-size: 95%;
 }
 
-
 /* ==== NAVIGATION BAR ==== */
 nav {
   display: flex;
@@ -215,7 +214,6 @@ nav {
 
 .navbar-uncollapse {height: 100vh; padding-top: 20px;}
 .navbar-unhide {display: block;}
-
 
 @media screen and (min-width: 660px) {
   nav {flex-flow: row;}
